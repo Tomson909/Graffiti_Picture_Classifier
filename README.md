@@ -19,5 +19,18 @@ If you are interested in the data, contact me.
 ## Results
 I used a dummy classifier and a support vector machine as a baseline. No classification power could be archieved. A optimized ResNet-18 architecture was used for the model. The results can be seen here:
 
+| Algorithm          | Dataset | Balanced Accuracy | AUC   | Trainable Params |
+|--------------------|---------|-------------------|-------|-------------------|
+| Modified_ResNet18  | train   | 0.84              | 0.91  | 65793            |
+| Dummy Classifier   | train   | 0.50              | 0.50  | 0                |
+| SVM                | train   | 0.50              | 0.50  | 2                |
+
+
+| Algorithm          | Dataset | Balanced Accuracy | AUC   | Trainable Params |
+|--------------------|---------|-------------------|-------|-------------------|
+| Modified_ResNet18  | test    | 0.79              | 0.90  | 65793            |
+| Dummy Classifier   | test    | 0.50              | 0.50  | 0                |
+| SVM                | test    | 0.50              | 0.50  | 2                |
+
 
 
