@@ -1,6 +1,5 @@
 # Grafiti_Picture_Classifier
 
-## Goal and Story
 The following story is made up and **fully fictional**!  
 
 
