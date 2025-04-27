@@ -1,4 +1,4 @@
-# Grafiti_Picture_Classifier
+# Graffiti_Picture_Classifier
 
 The following story is made up and **fully fictional**!  
 
